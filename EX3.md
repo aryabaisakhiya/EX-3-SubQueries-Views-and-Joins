@@ -223,6 +223,7 @@ SELECT * FROM salesman1 RIGHT JOIN customer1 ON salesman1.salesman_id=customer1.
 ```
 ### OUTPUT FOR RIGHT JOIN:
 ![out 11 dbms](https://github.com/aryabaisakhiya/EX-3-SubQueries-Views-and-Joins/assets/119393645/dc92eb43-0818-4c47-a0d2-fb4711cf418d)
+
 ##Result:
 The program to SubQueries, Views and Joins in SQL has been executed successfully.
 
