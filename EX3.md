@@ -3,10 +3,7 @@
 ##DATE:
 
 Aim:
-
 To create SubQueries, Views and Joins in SQL.
-
-
 
 ## Create employee Table
 ```sql
