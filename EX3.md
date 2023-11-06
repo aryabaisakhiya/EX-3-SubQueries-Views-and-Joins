@@ -2,7 +2,8 @@
 
 ##DATE:
 
-##Aim:
+Aim:
+
 To create SubQueries, Views and Joins in SQL.
 
 
